@@ -319,6 +319,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>TS generic type annotation</string>
+			<key>scope</key>
+			<string>ts.meta.var.expr.type.entity.name.parameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic type annotation</string>
+			<key>scope</key>
+			<string>tsx.meta.var.expr.type.entity.name.parameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TS type return</string>
 			<key>scope</key>
 			<string>ts.type.return</string>
