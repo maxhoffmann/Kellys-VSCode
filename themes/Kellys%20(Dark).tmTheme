@@ -387,7 +387,7 @@
 			<key>name</key>
 			<string>TS require brace</string>
 			<key>scope</key>
-			<string>token.ts.meta.var.expr.brace.round</string>
+			<string>ts.meta.var.expr.brace.round</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -398,7 +398,29 @@
 			<key>name</key>
 			<string>TSX require brace</string>
 			<key>scope</key>
-			<string>token.tsx.meta.var.expr.brace.round</string>
+			<string>tsx.meta.var.expr.brace.round</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS require brace</string>
+			<key>scope</key>
+			<string>ts.array.literal.square</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX require brace</string>
+			<key>scope</key>
+			<string>tsx.array.literal.square</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
