@@ -407,7 +407,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>TS require brace</string>
+			<string>TS array square bracket</string>
 			<key>scope</key>
 			<string>ts.array.literal.square</string>
 			<key>settings</key>
@@ -418,13 +418,68 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>TSX require brace</string>
+			<string>TSX array square bracket</string>
 			<key>scope</key>
 			<string>tsx.array.literal.square</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS template string begin expression</string>
+			<key>scope</key>
+			<string>ts.string.begin.block.template.expression</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS template string end expression</string>
+			<key>scope</key>
+			<string>ts.string.end.block.template.expression</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX template string end expression</string>
+			<key>scope</key>
+			<string>tsx.string.end.block.template.expression</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS template string block</string>
+			<key>scope</key>
+			<string>ts.string.block.template.expression</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F8F7FC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX template string block</string>
+			<key>scope</key>
+			<string>tsx.string.block.template.expression</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F8F7FC</string>
 			</dict>
 		</dict>
 	</array>
