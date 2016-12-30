@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Kellys (Dark)</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#2A2B2F</string>
+				<key>foreground</key>
+				<string>#F8F7FC</string>
+
+				<key>caret</key>
+				<string>#FFFFFF</string>
+
+				<key>invisibles</key>
+				<string>#2F3034</string>
+				<key>guide</key>
+				<string>#2F3034</string>
+
+				<key>hoverHighlight</key>
+				<string>#2F3034</string>
+
+				<key>referenceHighlight</key>
+				<string>#67686B</string>
+
+				<key>lineHighlight</key>
+				<string>#2F3034</string>
+				<key>rangeHighlight</key>
+				<string>#67686B</string>
+
+				<key>findRangeHighlight</key>
+				<string>#67686B</string>
+				<key>findMatchHighlight</key>
+				<string>#67686B</string>
+				<key>currentFindMatchHighlight</key>
+				<string>#67686B</string>
+
+				<key>activeLinkForeground</key>
+				<string>#62ACCE</string>
+				<key>gotoDefinitionLinkForeground</key>
+				<string>#62ACCE</string>
+
+				<key>selection</key>
+				<string>#448ACC</string>
+				<key>inactiveSelection</key>
+				<string>#2F3034</string>
+				<key>selectionHighlight</key>
+				<string>#264E73</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment.punctuation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punctuation</string>
+			<key>scope</key>
+			<string>punctuation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function Brace</string>
+			<key>scope</key>
+			<string>function.brace.round</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D1C79E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Number</string>
+			<key>scope</key>
+			<string>numeric</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D1C79E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boolean false</string>
+			<key>scope</key>
+			<string>boolean.false</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC4D16</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boolean true</string>
+			<key>scope</key>
+			<string>boolean.true</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#25CA2C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6AC32</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword function</string>
+			<key>scope</key>
+			<string>storage.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6AC32</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword Operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage</string>
+			<key>scope</key>
+			<string>storage</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function</string>
+			<key>scope</key>
+			<string>function.entity.name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Var</string>
+			<key>scope</key>
+			<string>var.storage.type.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag</string>
+			<key>scope</key>
+			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#268BD2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Attribute</string>
+			<key>scope</key>
+			<string>entity.tag.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Type Annotation</string>
+			<key>scope</key>
+			<string>elm.type-declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Type Annotation Function Name</string>
+			<key>scope</key>
+			<string>elm.meta.function.type-declaration.entity.name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Function Name</string>
+			<key>scope</key>
+			<string>elm.function.entity.name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6AC32</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Constant</string>
+			<key>scope</key>
+			<string>elm.constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Module Keyword</string>
+			<key>scope</key>
+			<string>elm.module.keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
+	<key>license</key>
+	<string>
+	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+	</string>
+</dict>
+</plist>
