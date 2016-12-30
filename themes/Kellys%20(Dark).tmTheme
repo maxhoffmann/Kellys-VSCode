@@ -77,6 +77,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Comment Documentation</string>
+			<key>scope</key>
+			<string>comment.type.documentation.jsdoc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
 			<string>punctuation</string>
@@ -282,6 +293,28 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS type annotation</string>
+			<key>scope</key>
+			<string>ts.type.annotation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS type return</string>
+			<key>scope</key>
+			<string>ts.type.return</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
 			</dict>
 		</dict>
 	</array>
