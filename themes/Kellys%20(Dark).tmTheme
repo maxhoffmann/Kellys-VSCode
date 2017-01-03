@@ -449,6 +449,50 @@
 				<string>#F8F7FC</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS undefined</string>
+			<key>scope</key>
+			<string>ts.meta.constant.language.undefined</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX undefined</string>
+			<key>scope</key>
+			<string>tsx.meta.constant.language.undefined</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS null</string>
+			<key>scope</key>
+			<string>ts.meta.constant.language.null</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX null</string>
+			<key>scope</key>
+			<string>tsx.meta.constant.language.null</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
