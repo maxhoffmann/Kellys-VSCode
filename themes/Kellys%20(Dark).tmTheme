@@ -31,14 +31,14 @@
 				<key>lineHighlight</key>
 				<string>#2F3034</string>
 				<key>rangeHighlight</key>
-				<string>#67686B</string>
+				<string>#3F4046</string>
 
 				<key>findRangeHighlight</key>
 				<string>#67686B</string>
 				<key>findMatchHighlight</key>
 				<string>#67686B</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#67686B</string>
+				<string>#A83F12</string>
 
 				<key>activeLinkForeground</key>
 				<string>#62ACCE</string>
@@ -46,7 +46,7 @@
 				<string>#62ACCE</string>
 
 				<key>selection</key>
-				<string>#448ACC</string>
+				<string>#3F4046</string>
 				<key>inactiveSelection</key>
 				<string>#2F3034</string>
 				<key>selectionHighlight</key>
