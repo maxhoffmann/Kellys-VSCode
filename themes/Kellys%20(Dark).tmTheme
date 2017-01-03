@@ -165,17 +165,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword function</string>
-			<key>scope</key>
-			<string>storage.function</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E6AC32</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Keyword Operator</string>
 			<key>scope</key>
 			<string>keyword.operator</string>
@@ -458,28 +447,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#F8F7FC</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TS arrow function</string>
-			<key>scope</key>
-			<string>ts.storage.type.function.arrow</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E6AC32</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TSX arrow function</string>
-			<key>scope</key>
-			<string>tsx.storage.type.function.arrow</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E6AC32</string>
 			</dict>
 		</dict>
 	</array>
