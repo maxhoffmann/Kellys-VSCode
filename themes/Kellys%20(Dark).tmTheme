@@ -528,6 +528,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>TS generic curly braces type annotation 3</string>
+			<key>scope</key>
+			<string>ts.punctuation.definition.meta.block.type.parameters.object.declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic curly braces type annotation 3</string>
+			<key>scope</key>
+			<string>tsx.punctuation.definition.meta.block.type.parameters.object.declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TS generic object field type annotation</string>
 			<key>scope</key>
 			<string>ts.meta.type.variable.function.block.declaration.parameters.arrow.object.property.field</string>
@@ -563,7 +585,29 @@
 			<key>name</key>
 			<string>TSX generic object field type annotation 2</string>
 			<key>scope</key>
-			<string>ts.meta.variable.var.expr.type.property.parameters.object.field.declaration</string>
+			<string>tsx.meta.variable.var.expr.type.property.parameters.object.field.declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS generic object field type annotation 3</string>
+			<key>scope</key>
+			<string>ts.meta.type.variable.declaration.parameters.object.field.property</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic object field type annotation 3</string>
+			<key>scope</key>
+			<string>tsx.meta.type.variable.declaration.parameters.object.field.property</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -608,6 +652,28 @@
 			<string>TSX generic comma type annotation 2</string>
 			<key>scope</key>
 			<string>tsx.punctuation.meta.var.expr.type.separator.comma.parameters.object</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS generic comma type annotation 3</string>
+			<key>scope</key>
+			<string>ts.punctuation.meta.type.declaration.parameters.object.separator.comma</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic comma type annotation 3</string>
+			<key>scope</key>
+			<string>tsx.punctuation.meta.type.declaration.parameters.object.separator.comma</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
