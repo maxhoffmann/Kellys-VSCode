@@ -594,6 +594,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>TS generic comma type annotation 2</string>
+			<key>scope</key>
+			<string>ts.punctuation.meta.var.expr.type.separator.comma.parameters.object</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic comma type annotation 2</string>
+			<key>scope</key>
+			<string>tsx.punctuation.meta.var.expr.type.separator.comma.parameters.object</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TS type return</string>
 			<key>scope</key>
 			<string>ts.type.return</string>
