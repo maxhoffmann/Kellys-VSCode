@@ -354,7 +354,7 @@
 			<key>name</key>
 			<string>TS type annotation primitive</string>
 			<key>scope</key>
-			<string>ts.meta.type.support.parameters.primitive</string>
+			<string>ts.meta.block.type.function.entity.name.parameters</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -365,11 +365,55 @@
 			<key>name</key>
 			<string>TSX type annotation primitive</string>
 			<key>scope</key>
+			<string>tsx.meta.block.type.function.entity.name.parameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS inline generic type Annotation</string>
+			<key>scope</key>
+			<string>ts.meta.type.support.parameters.primitive</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX inline generic type Annotation</string>
+			<key>scope</key>
 			<string>tsx.meta.type.support.parameters.primitive</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS inline type declaration</string>
+			<key>scope</key>
+			<string>ts.meta.block.type.function.declaration.entity.name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F8F7FC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX inline type declaration</string>
+			<key>scope</key>
+			<string>tsx.meta.block.type.function.declaration.entity.name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F8F7FC</string>
 			</dict>
 		</dict>
 		<dict>
