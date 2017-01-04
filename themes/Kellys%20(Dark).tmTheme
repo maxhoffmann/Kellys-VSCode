@@ -682,6 +682,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>TS generic object indexer</string>
+			<key>scope</key>
+			<string>ts.meta.type.declaration.parameters.object.indexer</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic object indexer</string>
+			<key>scope</key>
+			<string>tsx.meta.type.declaration.parameters.object.indexer</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TS type return</string>
 			<key>scope</key>
 			<string>ts.type.return</string>
