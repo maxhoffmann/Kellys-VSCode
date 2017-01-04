@@ -418,6 +418,50 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>TS generic builtin type annotation</string>
+			<key>scope</key>
+			<string>ts.meta.type.support.parameters.builtin</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic builtin type annotation</string>
+			<key>scope</key>
+			<string>tsx.meta.type.support.parameters.builtin</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS generic operator type annotation</string>
+			<key>scope</key>
+			<string>ts.meta.keyword.type.operator.parameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic operator type annotation</string>
+			<key>scope</key>
+			<string>tsx.meta.keyword.type.operator.parameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TS type return</string>
 			<key>scope</key>
 			<string>ts.type.return</string>
