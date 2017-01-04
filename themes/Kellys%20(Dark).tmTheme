@@ -506,6 +506,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>TS generic curly braces type annotation 2</string>
+			<key>scope</key>
+			<string>ts.punctuation.definition.meta.block.var.expr.type.parameters.object</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic curly braces type annotation 2</string>
+			<key>scope</key>
+			<string>tsx.punctuation.definition.meta.block.var.expr.type.parameters.object</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TS generic object field type annotation</string>
 			<key>scope</key>
 			<string>ts.meta.type.variable.function.block.declaration.parameters.arrow.object.property.field</string>
@@ -520,6 +542,28 @@
 			<string>TSX generic object field type annotation</string>
 			<key>scope</key>
 			<string>tsx.meta.type.variable.function.block.declaration.parameters.arrow.object.property.field</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS generic object field type annotation 2</string>
+			<key>scope</key>
+			<string>ts.meta.variable.var.expr.type.property.parameters.object.field.declaration</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic object field type annotation 2</string>
+			<key>scope</key>
+			<string>ts.meta.variable.var.expr.type.property.parameters.object.field.declaration</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
