@@ -330,6 +330,50 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>TS generic type annotation brackets</string>
+			<key>scope</key>
+			<string>ts.punctuation.definition.meta.type.typeparameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX generic type annotation brackets</string>
+			<key>scope</key>
+			<string>tsx.punctuation.definition.meta.type.typeparameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS type annotation primitive</string>
+			<key>scope</key>
+			<string>ts.meta.type.support.parameters.primitive</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSX type annotation primitive</string>
+			<key>scope</key>
+			<string>tsx.meta.type.support.parameters.primitive</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67686B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TS type return</string>
 			<key>scope</key>
 			<string>ts.type.return</string>
