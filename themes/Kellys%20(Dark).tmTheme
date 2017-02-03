@@ -398,7 +398,8 @@
 				punctuation.terminator.statement.js,
 				punctuation.section.embedded.begin.js,
 				punctuation.section.embedded.end.js,
-				punctuation.definition.tag
+				punctuation.definition.tag,
+				punctuation.accessor.js
 			</string>
 			<key>settings</key>
 			<dict>
