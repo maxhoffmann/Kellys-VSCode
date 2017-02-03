@@ -351,7 +351,8 @@
 				punctuation.terminator.statement.ts,
 				keyword.operator,
 				punctuation.definition.parameters.begin.ts,
-				punctuation.definition.parameters.end.ts
+				punctuation.definition.parameters.end.ts,
+				punctuation.definition.binding-pattern.object.ts
 			</string>
 			<key>settings</key>
 			<dict>
