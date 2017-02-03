@@ -348,6 +348,7 @@
 				punctuation.separator,
 				punctuation.definition.block.ts,
 				punctuation.accessor.ts,
+				punctuation.terminator.statement.ts,
 				keyword.operator
 			</string>
 			<key>settings</key>
