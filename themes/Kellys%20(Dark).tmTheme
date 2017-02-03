@@ -292,7 +292,8 @@
 				meta.type,
 				keyword.operator.type,
 				punctuation.definition.typeparameters.begin.ts,
-				punctuation.definition.typeparameters.end.ts
+				punctuation.definition.typeparameters.end.ts,
+				meta.return.type.ts
 			</string>
 			<key>settings</key>
 			<dict>
