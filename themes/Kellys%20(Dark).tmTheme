@@ -349,7 +349,9 @@
 				punctuation.definition.block.ts,
 				punctuation.accessor.ts,
 				punctuation.terminator.statement.ts,
-				keyword.operator
+				keyword.operator,
+				punctuation.definition.parameters.begin.ts,
+				punctuation.definition.parameters.end.ts
 			</string>
 			<key>settings</key>
 			<dict>
@@ -400,7 +402,9 @@
 				punctuation.section.embedded.begin.js,
 				punctuation.section.embedded.end.js,
 				punctuation.definition.tag,
-				punctuation.accessor.js
+				punctuation.accessor.js,
+				punctuation.definition.parameters.begin.js,
+				punctuation.definition.parameters.end.js
 			</string>
 			<key>settings</key>
 			<dict>
