@@ -367,6 +367,67 @@
 				<string>#448ACC</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS this</string>
+			<key>scope</key>
+			<string>variable.language.this.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS method</string>
+			<key>scope</key>
+			<string>meta.definition.method.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS punctuation</string>
+			<key>scope</key>
+			<string>
+				punctuation.definition.block.js,
+				punctuation.terminator.statement.js,
+				punctuation.section.embedded.begin.js,
+				punctuation.section.embedded.end.js,
+				punctuation.definition.tag
+			</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS number</string>
+			<key>scope</key>
+			<string>constant.numeric.decimal.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSX attribute</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
