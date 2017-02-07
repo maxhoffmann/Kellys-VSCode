@@ -470,6 +470,28 @@
 				<string>#25CA2C</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS false</string>
+			<key>scope</key>
+			<string>constant.language.boolean.false.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC4D16</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TS true</string>
+			<key>scope</key>
+			<string>constant.language.boolean.true.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#25CA2C</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
