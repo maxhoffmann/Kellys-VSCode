@@ -293,7 +293,9 @@
 				keyword.operator.type,
 				punctuation.definition.typeparameters.begin.ts,
 				punctuation.definition.typeparameters.end.ts,
-				meta.return.type.ts
+				meta.return.type.ts,
+				meta.return.type.arrow.ts,
+				cast.expr.ts
 			</string>
 			<key>settings</key>
 			<dict>
@@ -433,6 +435,39 @@
 			<dict>
 				<key>foreground</key>
 				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS null</string>
+			<key>scope</key>
+			<string>constant.language.null.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS false</string>
+			<key>scope</key>
+			<string>constant.language.boolean.false.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC4D16</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS true</string>
+			<key>scope</key>
+			<string>constant.language.boolean.true.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#25CA2C</string>
 			</dict>
 		</dict>
 	</array>
