@@ -492,6 +492,71 @@
 				<string>#25CA2C</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS punctuation</string>
+			<key>scope</key>
+			<string>
+				punctuation.terminator.rule.css,
+				punctuation.section.property-list.begin.css,
+				meta.at-rule.media.css
+			</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS selector</string>
+			<key>scope</key>
+			<string>
+				meta.selector.css,
+				entity.name.tag.css
+			</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6AC32</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS property</string>
+			<key>scope</key>
+			<string>
+				meta.property-name.css,
+				support.type.property-name.media.css
+			</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#62ACCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS numeric</string>
+			<key>scope</key>
+			<string>constant.numeric.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D1C79E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS @media</string>
+			<key>scope</key>
+			<string>keyword.control.at-rule.media.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
