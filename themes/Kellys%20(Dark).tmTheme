@@ -364,6 +364,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>TS undefined</string>
+			<key>scope</key>
+			<string>constant.language.undefined.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TS constant</string>
 			<key>scope</key>
 			<string>variable.other.constant.ts</string>
