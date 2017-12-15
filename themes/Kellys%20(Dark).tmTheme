@@ -233,7 +233,11 @@
 			<key>name</key>
 			<string>Elm Type Annotation</string>
 			<key>scope</key>
-			<string>elm.type-declaration</string>
+			<string>
+				meta.function.type-declaration.elm,
+				meta.function.type-declaration.elm storage.type.elm,
+				meta.function.type-declaration.elm entity.name.function.elm
+			</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -242,20 +246,22 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Elm Type Annotation Function Name</string>
+			<string>Elm Module Keyword</string>
 			<key>scope</key>
-			<string>elm.meta.function.type-declaration.entity.name</string>
+			<string>meta.declaration.module.elm keyword.other.elm</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9AB2C8</string>
+				<string>#E6AC32</string>
+				<key>fontStyle</key>
+				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Elm Function Name</string>
+			<string>Elm Import Keyword</string>
 			<key>scope</key>
-			<string>elm.function.entity.name</string>
+			<string>meta.import.elm keyword.other.elm</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -264,9 +270,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Elm Constant</string>
+			<string>Elm Exposing Keyword</string>
 			<key>scope</key>
-			<string>elm.constant</string>
+			<string>meta.import.elm keyword.import.elm</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6AC32</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Keywords</string>
+			<key>scope</key>
+			<string>keyword.other.elm</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6AC32</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Function Name</string>
+			<key>scope</key>
+			<string>entity.name.function.elm</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6AC32</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Exposed Variables Keyword</string>
+			<key>scope</key>
+			<string>
+				storage.type.elm,
+				meta.declaration.exports.elm entity.name.function.elm
+			</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f8f7fcff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Constants</string>
+			<key>scope</key>
+			<string>
+				constant.other.elm,
+				support.constant.elm,
+				variable.parameter variable.parameter
+			</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D1C79E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elm Number</string>
+			<key>scope</key>
+			<string>constant.numeric.elm</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -275,13 +343,16 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Elm Module Keyword</string>
+			<string>Elm Punctuation</string>
 			<key>scope</key>
-			<string>elm.module.keyword</string>
+			<string>
+				meta.declaration.exports.elm,
+				constant.language.empty-list.elm
+			</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
+				<key>foreground</key>
+				<string>#9ab2c8ff</string>
 			</dict>
 		</dict>
 		<dict>
