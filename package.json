@@ -1,8 +1,8 @@
 {
     "name": "theme-kellys-dark",
     "displayName": "Kellys",
-    "description": "Kellys (dark)",
-    "version": "1.0.0",
+    "description": "Kellys Light and Dark theme",
+    "version": "1.1.0",
     "publisher": "maxhoffmann",
     "engines": {
         "vscode": "^1.5.0"
@@ -16,6 +16,11 @@
                 "label": "Kellys (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Kellys%20(Dark).tmTheme"
+            },
+            {
+                "label": "Kellys (Light)",
+                "uiTheme": "vs-light",
+                "path": "./themes/Kellys%20(Light).tmTheme"
             }
         ]
     }
